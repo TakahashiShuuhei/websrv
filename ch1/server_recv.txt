@@ -1,0 +1,14 @@
+GET /index.html HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,ja;q=0.8
+Cookie: _gcl_au=1.1.2146309092.1590478606; visitor_id391552=466752359; visitor_id391552-hash=018ed39bf14930018417c4907f876183525d794b05f0ad665ec9896418056e85c727367e24d9b4ded151de6bbae2e0bee9fccfd7; fr.session=4952b710-8833-486d-add7-26b3986ebf34
+
